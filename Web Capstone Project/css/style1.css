@@ -43,6 +43,9 @@ header{
     background-color:white;
   
   }
+.navbar-inverse .navbar-nav>li>a {
+  color: #f7f0f0;
+}
   .navbar-inverse .navbar-toggle:hover
   {
     background-color:white;
